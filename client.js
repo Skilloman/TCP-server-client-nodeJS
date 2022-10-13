@@ -1,7 +1,7 @@
 const net = require('net'), colors = require('colors'), readlineSync = require('readline-sync'), Process = require('process'), cp = require('child_process')
 
 let client = null
-// !!!!!!!!!!! FLEMME DE COMMENTER VENER DISCORD POUR ME DEMANDER DE L'AIDE : ~{ Skillo }~#8046
+
 //1
 function openConnection() {
     if(client) {
